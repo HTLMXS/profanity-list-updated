@@ -8,7 +8,7 @@ Please note that most entries in the JSON lists have started their life with a [
 
 | Name    | Code    | JSON                     | Plain Text             | Meta                                       |
 | ------- | ------- | ------------------------ | ---------------------- | ------------------------------------------ |
-| English | `en`    | [en.json](en.json)       | [en.txt](en.txt)       | `434` profanities, `809` matches, `6` tags |
+| English | `en`    | [en.json](en.json)       | [en.txt](en.txt)       | `435` profanities, `809` matches, `6` tags |
 | Emoji   | `emoji` | [emoji.json](emoji.json) | [emoji.txt](emoji.txt) | `7` profanities, `18` matches, `2` tags    |
 
 ## Available Tags
